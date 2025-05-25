@@ -14,11 +14,13 @@ To answer the research questions above, this project requires a dataset with ave
 📊 [Life Expectancy WHO Dataset on Kaggle](https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated)
 
 The dataset contains records of 179 countries between the years 2000 and 2015. Each record is of an individual year in an individual country, along with the corresponding life expectancy, health, immunisation, and socioeconomic data for that year in that country. The data was collected by the World Health Organisation and the World Bank, and compiled and cleaned by the publisher of this dataset.
+
 **Key Variable:**
 1. Polio: float value of the percentage of 1-year-old children immunised from Polio
 2. GDP_per_capita: float value of a nation’s gross domestic product per capita
 3. Adult_mortality: float value of the number of adult deaths between ages 15 and 60 per 1000 people
 4. Schooling: float value of the average number of years that people aged 25 years and older spent in formal education.\
+
 **Target Variable**
 Life_expectancy: float value of gender-agnostic average life expectancy in a given nation in a given year; this is the target variable
 
